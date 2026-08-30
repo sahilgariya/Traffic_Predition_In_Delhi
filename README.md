@@ -105,16 +105,6 @@ R²: 0.82
 The updated model improved the reported MAE and R² compared with the
 previous version.
 
-Repository Structure
-
-Traffic_Prediction_In_Delhi/
-│
-├── delhi_traffic_features.csv
-├── delhi_traffic_target.csv
-├── Traffic_Congestion_Prediction_in_Smart_Cities.ipynb
-├── README.md
-└── requirements.txt
-
 Dataset Source
 
 The uploaded CSV files 
